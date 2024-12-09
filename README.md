@@ -1,7 +1,7 @@
 # ContrataChain Frontend: Plataforma de Calificación de Proveedores
 
 <h4 align="center">
-  <a href="https://github.com/contratachain/">Documentación más general</a>
+  <a href="https://github.com/contratachain/">Documentación más general</a> | 
   <a href="https://github.com/contratachain/contratachainFrontend">Documentación Frontend (este mismo repositorio)</a>
 </h4>
 
@@ -15,7 +15,7 @@ Los principales usuarios de la plataforma son empresas y organismos gubernamenta
 
 Este proyecto está basado en **Scaffold-ETH 2**, **Next.js** para la interfaz frontend y **Hardhat** para el desarrollo de contratos inteligentes.
 
-## Funcionalidades que se supone que debía hacer (pero no hice por estar tomando el día de velitas en colombia, nunca volveré a participar en hackatones durante epocas decembrinas)
+## Funcionalidades que se cumpliran a futuro
 
 ### Características Principales:
 - **Visualización de Calificaciones**: Los usuarios pueden consultar las calificaciones y la información detallada de los proveedores registrados.
@@ -106,6 +106,10 @@ Si deseas contribuir al desarrollo del frontend, ¡nos encantaría tu ayuda! Aqu
 4. **Envía un pull request**: Una vez que hayas realizado los cambios, abre un pull request describiendo las modificaciones que realizaste.
 
 *ContrataChain* Descentralizar el dinero y la información descentraliza el poder, quitandole el poder a manos corruptas.
+
+Por último:
+
+No tomaré alcohol el día de velitas en colombia
 
 ## Documentación
 
